@@ -13,6 +13,7 @@ I'm passionate about building robust, scalable applications and contributing to 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=web-scraping&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -31,10 +32,7 @@ I'm passionate about building robust, scalable applications and contributing to 
 
 ### 🚀 Projects and Contributions:
 
-- [Web Scraping with Python](https://github.com/hethirpara/web-scraping-python) - A project demonstrating how to use Python for web scraping using libraries like BeautifulSoup and Scrapy. This project includes examples of extracting data from various websites and storing it in a structured format.
-
-Feel free to check out my repositories for more of my work!
+Feel free to check out my repositories for more of my work! [GitHub Repositories](https://github.com/Hethirpara?tab=repositories)
 
 ---
-
 
