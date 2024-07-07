@@ -25,7 +25,6 @@ I'm passionate about building robust, scalable applications and contributing to 
 ### 📫 Connect with me:
 
 - [LinkedIn](https://linkedin.com/in/hethirpara)
-- [Twitter](https://twitter.com/hethirpara)
 - [Email](mailto:hethirpara78@gmail.com)
 
 ---
